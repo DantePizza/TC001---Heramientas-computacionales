@@ -1,2 +1,2 @@
-# TC001 - Herammientas computacionales
+# TC001 - Heramientas computacionales
 Repositorio para practica de Github, semana Tecc
